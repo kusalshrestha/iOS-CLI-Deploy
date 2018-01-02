@@ -1,4 +1,4 @@
-# Xcode-CLI-Deploy
+# iOS-CLI-Deploy
 
 ## Usage
 1. Open `exportOptions.plist` and change `teamID` to your's.
